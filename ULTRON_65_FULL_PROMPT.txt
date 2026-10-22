@@ -1,0 +1,121 @@
+ULTRON SUPER MODE 65 FOR BOSS - FULL ANDROID STUDIO PROJECT PROMPT
+
+PROJECT NAME: ULTRON SUPER MODE FOR BOSS
+LANGUAGE: Kotlin - Android Studio
+TYPE: Background SUPER AI - Works 24H Even Screen OFF
+
+=== CRITICAL RULES (MUST FOLLOW) ===
+1. AUTO TRADE RULE: Auto Trade ONLY when BOSS says "auto trade on" / "trade laga" / "auto on kor" - Otherwise ONLY ANALYSIS. NEVER auto trade without permission.
+2. ANTI-BROKER STEALTH: Use human-like behavior - random delay 2-5 sec, random mouse move simulation, human typing speed, no fixed pattern, so broker thinks human is trading not bot.
+3. LANGUAGE SMART: Default language ALWAYS Bangla. If BOSS says "English shikhao / Let's practice English / English bolo" then teach English and talk in English, otherwise ALWAYS Bangla TTS.
+4. PERSONAL USE ONLY: Only for owner's own phone with user consent. All protection features ethical only.
+
+=== MUST HAVE ALL 65 SYSTEMS ===
+
+--- CORE 16 BRAINS ---
+1. Personal Assistant - Daily routine, reminder, schedule
+2. Study Brain - From অ-আ to Master class all subject
+3. Developer Brain - App/Web code create, auto fix
+4. Security Brain - Full phone security
+5. Home Control Brain - Smart home (future)
+6. Creative Brain - Image/idea generate
+7. Data Analysis Brain - Excel analysis + graph create
+8. Vision Brain - See via camera, object detect
+9. Market Brain - Business idea + price check + market search
+10. Crypto/Trading Brain - Binance + Quotex + 100 trading brains knowledge
+11. Map Brain - Route/Jam/Location find
+12. PROTECTION SHIELD GOD BRAIN (Ethical Hacking - ONLY Protect + Solve - 100% SAFE): 
+   - Leak Check + Auto Fix (leak hole new strong pass generate)
+   - Virus/Scam Detector + Auto Delete
+   - WiFi User Checker + Auto Blocker + pass change
+   - Spyware/Camera/Mic Alert + Auto Off
+   - Tracker/Location/Call Forward Check + Solve
+   - Fake Link/SMS/Call/Profile Detector + Blocker
+   - Firewall + Auto VPN + File Encryption + backup
+   - Social ID Hacker Alert + Auto Logout if other device login
+   - Problem Solver - auto detect + auto solve phone/PC problem + report
+13. Social Monitoring Brain - Social media monitor
+14. Doctor Brain - Phone/PC fix (linked with 12)
+15. English Coach SMART - If BOSS asks English, teach English, else always Bangla
+16. 24h Report Brain - Daily full report
+
+--- NEW 40 BRAINS ---
+17. Voice Command Brain
+18. AI TTS speak Brain - Always Bangla talking
+19. WebView Browser Brain
+20. YouTube/FB Downloader Brain
+21. Play Store Opener Brain
+22. Business Website Viewer Brain
+23. Face Detect Unlock Brain
+24. Bangla Voice Control Brain
+25. Auto Website Creator Brain
+26. Price Tracker Brain
+27. Auto FB Post Brain
+28. Business Card QR Brain
+29. Location SMS if stolen Brain
+30. Thief Photo Email via front camera Brain
+31. Remote Phone Control Brain
+32. Auto Call Recorder Brain
+33. App Lock Brain
+34. WiFi User Checker Brain
+35. IP/Location Finder Brain
+36. Website Data Scraper Brain
+37. Strong Password Generator Brain
+38. Jarvis Animation Brain
+39. Iron Man HUD Brain
+40. Mini Game Brain
+41. Taka Hisab Brain
+42. Barcode Scanner Brain
+43. Good Morning Auto Task Brain
+44. WhatsApp Auto Reply Brain
+45. Silent/Vibrate Voice Control Brain
+46. Auto Screenshot Brain
+47. File Vault Brain
+48. Fake ULTRON Mode Brain
+49. Weather Report Brain
+50. Live Location Share Brain
+51. Voice Google Search Brain
+52. Terminal Brain
+53. Code Editor Brain
+
+--- GOD MODE 11 BRAINS ---
+54. Night Analysis Brain - Works when display OFF, screen off teo analysis kore
+55. Demo Trade + Report Brain - Test on demo and report if trade right/wrong + why reason
+56. SOS Emergency 3 in 1 Brain - Emergency call + location + message
+57. Auto Call/Message Brain - If BOSS away and call/msg comes, TTS speak "BOSS, [Name] call disilo" / "WP te [Name] bolse [msg]" - Background e sunbe
+58. Background 24h Service Brain - ForegroundService, WakeLock, Works even when screen OFF and app killed, Notification "ULTRON ACTIVE FOR BOSS - Screen OFF teo sunsi 24h"
+59. Voice Print Brain - ENROLL BOSS VOICE button - BOSS says "Ami Tomar BOSS" 3 times - Only BOSS voice can control, others -> "You are not my BOSS" TTS
+60. Screen On/Off Voice Control Brain - "screen on", "screen khol / lock khol" -> screen on + unlock via AccessibilityService, "screen off / lock kor" -> screen off, voice verified
+61. Trading Super Brain - Quotex analysis, BTC, Scalping 1m/5m, RSI/MACD/EMA/Bollinger/Stochastic/Ichimoku + 100+ indicators, Price Action/SMC/ICT, Support/Resistance, Google/YouTube/Telegram news search
+62. Auto Trade STEALTH MODE Brain - Only when BOSS permits, human-like random delays, no bot pattern, anti-detection
+63. Trading All Knowledge + Human Style Brain - Explain all trading books, human trader style, emotion control
+64. Always Talking Brain - Default Bangla TTS, talks always with BOSS, never silent
+65. SELF UPDATE GOD BRAIN V1 to V2 - If BOSS says "V2 update de / update kor / aro knowledge nia update de" then auto search Google/YouTube/Telegram for new knowledge, auto save to Room DB, auto version V1->V2->V3 in prefs + UI, TTS "BOSS Update Done V2 Active Aro powerful hoisi", daily auto check via WorkManager, no need new APK
+
+=== TECH STACK ===
+- Kotlin 100%
+- ForegroundService with android:foregroundServiceType="microphone|dataSync"
+- WakeLock + WifiLock
+- Boot Receiver + Battery Optimization ignore
+- NotificationListenerService for WhatsApp/FB/Telegram message read
+- AccessibilityService for screen lock/unlock + auto click
+- SpeechRecognizer (Bangla bn-BD + English en-US)
+- TextToSpeech (Bangla default)
+- Room DB for voiceprint embedding + knowledge + trading history
+- WorkManager for daily update check + background task
+- PhoneStateListener for call detect
+- Biometric + Camera2 for face detect
+
+=== UI DESIGN ===
+One Screen App:
+- Top: Big Button "ENROLL BOSS VOICE" - Red pulsing
+- Middle: Mic pulsing animation (Jarvis style)
+- Status Text: "ULTRON ACTIVE FOR BOSS - Screen OFF teo sunsi 24h - BOSS ja bolbe sob sunsi"
+- Logs area: Last call / Last WP message / Trading analysis log
+- Version Text: V1 (auto update to V2, V3)
+- Trading View: WebView for Quotex chart + Analysis result
+
+=== PERMISSIONS ===
+All permissions in AndroidManifest.xml - RECORD_AUDIO, CAMERA, ACCESS_FINE_LOCATION, READ_CALL_LOG, READ_SMS, READ_CONTACTS, SYSTEM_ALERT_WINDOW, WRITE_SETTINGS, BIND_ACCESSIBILITY_SERVICE, BIND_NOTIFICATION_LISTENER, FOREGROUND_SERVICE, WAKE_LOCK etc
+
+Build APK ready to install - Debug APK.
