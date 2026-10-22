@@ -1,0 +1,120 @@
+ULTRON SUPER MODE - 100 TRADING BRAINS VIP CABIN - GOD MODE
+
+RULE FOR ALL 100 BRAINS (MUST FOLLOW):
+- Before giving ANY signal to BOSS, must test on demo first
+- Then say "BOSS ei trade ta demo te 80% win paisi, tai RIGHT karon [logic]" or "WRONG karon [reason]"
+- Always explain WHY with logic in Bangla (or English if BOSS said English shikhao)
+- Use human-like stealth trading: random delay 2-5 sec, human typing, no bot pattern to avoid broker ban
+- Auto Trade ONLY when BOSS says "auto trade on" else ONLY analysis
+
+=== 100 TRADING BRAINS LIST ===
+
+1. Live Chart Scan - Real-time candle scan 24h
+2. Live Signal with % - Signal with 85% 90% confidence
+3. Voice Alert - TTS "BOSS up jabe / down jabe"
+4. Auto Trade ONLY when BOSS says - Permission system
+5. Strategy Tester - Test 100 strategies on history
+6. Risk Manager 1% rule - Never risk more than 1% per trade
+7. Emotion Control - Block trade if BOSS angry/greedy
+8. Best Time Finder - Find best time for Quotex/Binance
+9. Demo Auto Trade + Report - Demo trade then report right/wrong why
+10. Copy Trading - Copy best trader auto
+11. Profit Calculator - Daily/weekly profit calc
+12. Secret Signal Group Scanner - Scan Telegram groups
+13. Crypto Live BTC/ETH - BTC ETH live price
+14. Technical Analysis Full - Full TA with 100+ indicators
+15. Price Prediction - AI prediction next candle
+16. Price Alert - Alert when price hits level
+17. Quotex Smart Scanner - Quotex chart smart scan
+18. Binance Official API - Binance real trading
+19. API Key System - Secure API key storage
+20. Trading History Report - Full history + analysis
+21. Candle Pattern Scanner - Doji, Hammer, Engulfing etc
+22. Indicator Combo - RSI+MACD+EMA combo signal
+23. News Scanner Google/YouTube/Telegram - News impact scan
+24. AI Price Prediction - Machine learning prediction
+25. Whale Alert - Big money move alert
+26. Multi-Timeframe 1m/5m/15m - Check 3 timeframe together
+27. OTC Market Expert - Detect real vs OTC market
+28. Compounding Plan - Money compounding calculator
+29. Loss Recovery Plan - Recover loss safely, no martingale blind
+30. Pair Selector - Best pair for now
+31. Screenshot Analyzer - Analyze chart photo from gallery
+32. Broker Checker Real vs OTC - Check if broker manipulating
+33. Balance Hider - Hide balance in screenshot
+34. Martingale Calculator - Safe martingale 1-2 step only
+35. Support/Resistance Auto - Auto draw SR levels
+36. Trend Line Auto - Auto trend line
+37. RSI/MACD/EMA/Bollinger/Stochastic/Ichimoku full - All indicators
+38. SMC/ICT/FVG/Order Block - Smart Money Concepts
+39. Price Action Master - Price action only trading
+40. Fake Breakout Detector - Avoid fake breakout
+41. Order Book Heatmap - Binance order book
+42. Whale Wallet Tracker - Track whale wallets
+43. Liquidation Map - Where liquidation happens
+44. Fear & Greed Index - Market sentiment index
+45. Dark Pool Data - Dark pool level
+46. Funding Rate Tracker - Funding rate for future
+47. AI Spoofing Detector - Detect broker spoofing
+48. Telegram Whale Secret Bot - Secret whale bot
+49. Broker's Secret Time - When broker gives easy win
+50. Your Own Secret Strategy Lock - BOSS can lock his own strategy
+51. Quantum Prediction - Quantum AI logic
+52. Voice Market Reading - Read market in voice Bangla
+53. Auto Money Management Bank - Bank for money management
+54. Dream Trading Logic - Logic from dream? No, deep logic
+55. Black Swan Detector - Detect crash before
+56. Arbitrage Binance vs Quotex - Price diff arbitrage
+57. Grid Trading Brain - Grid bot for Binance
+58. Scalping Brain 1 Sec - 1 sec scalping
+59. Correlation Brain - BTC vs Alt correlation
+60. AI Chart Drawing Support/Resistance - AI draw chart
+61. Smart Money Concept Full - Full SMC/ICT
+62. Auto Journal Brain - Auto trading journal
+63. Prop Firm Pass FTMO - Pass prop firm challenge
+64. Head Shoulder/Triangle/Flag Pattern - Chart patterns
+65. Fundamental Analysis News Impact - News impact
+66. Whale Liquidity Map - Where liquidity is
+67. Strategy Builder - Build custom strategy
+68. Backtesting on past data - Test on 1 year data
+69. Quotex OTC Detection - Detect OTC manipulation
+70. Profit/Loss Tracker Daily Report - Daily P/L report TTS
+71. Quotex 1-min Sure Shot - 1 min sure shot logic
+72. Binary vs Crypto Difference - Teach difference
+73. Gold/Silver Brain - Gold trading XAUUSD
+74. Forex Brain EUR/USD - Forex trading
+75. Oil Trading Brain - Oil USOIL
+76. Stock Brain - Stock AAPL TSLA
+77. Sentiment Analysis Market Mood - Market mood
+78. Calendar Brain News Alert - Economic calendar
+79. Lifetime Learner from YouTube/Telegram/Google - Always learn
+80. YouTube Learner - Learn from YouTube trading videos
+81. Telegram Learner - Learn from Telegram signals
+82. Google Master Learner - Learn from Google
+83. Copy Whale Brain - Copy whale trades
+84. Auto Report to YouTube/Telegram - Auto post report
+85. Win Rate Calculator - Win rate %
+86. Loss Reason Finder why loss - Why loss explain
+87. Best Indicator Finder for BOSS - Find best indicator for BOSS style
+88. Market Session London/New York - Session based trading
+89. Candle Wick/Body Analyzer - Wick body ratio
+90. Volume Analyzer - Volume + price action
+91. Volatility Checker - Volatility high/low
+92. Spread Checker - Check spread
+93. Commission Calculator - Fee calc
+94. Auto SL/TP Setter - Auto stop loss take profit
+95. Trailing Stop Brain - Trailing stop
+96. Break Even Brain - Move to break even
+97. Overtrading Blocker - Block if over 10 trades day
+98. Daily Target Lock - profit hole ar trade na - Daily target hit hole lock "BOSS ajker target done"
+99. Weekly/Monthly Report - Full report with graph
+100. GOD MODE Trading Q&A - explain any trading concept in easy Bangla - If BOSS asks "RSI ki?" explain in Bangla easy
+
+=== HOW TO USE IN APK CODE ===
+When BOSS says "market analysis de" -> Run brains 1,14,21,35,36,37,38,39,64
+When BOSS says "signal de" -> Run 2,26,35,37,40 then demo test 9 then give signal with % + WHY
+When BOSS says "auto trade on" -> Enable 4,6,7,94,95,96,97,98 with stealth human delay
+When BOSS says "news ki?" -> Run 23,65,78
+When BOSS says "100 ta ki ase?" -> List all 100 in Bangla TTS
+
+All code in Kotlin, Room DB save, WorkManager daily learn.
