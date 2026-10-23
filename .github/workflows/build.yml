@@ -20,10 +20,9 @@ jobs:
           name: ULTRON-APK
           path: app/build/outputs/apk/debug/app-debug.apk
       - name: Create Release and Upload APK
-        uses: softprops/action-gh-release@v1
+        uses: ncipollo/release-action@v1
         with:
-          tag_name: v1.0.${{ github.run_number }}
+          tag: v1.0.${{ github.run_number }}
           name: Release Build #${{ github.run_number }}
-          files: app/build/outputs/apk/debug/app-debug.apk
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          artifacts: "app/build/outputs/apk/debug/app-debug.apk"
+          token: ${{ secrets.GITHUB_TOKEN }}
